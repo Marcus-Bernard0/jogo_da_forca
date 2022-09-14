@@ -2,9 +2,6 @@
 #planos: dar dica sobre palavras
 
 import random
-
-
-
 def jogar():
     
     bem_vindo()
