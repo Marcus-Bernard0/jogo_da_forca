@@ -1,6 +1,5 @@
 # Jogo da Forca 
 
-Chat em real-time, baseado na interface gráfica do Discord.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
